@@ -8,7 +8,10 @@ Python and Jupyter notebooks for predictive maintenance, regression, classificat
 - [APS failure detection](./APS%20Failure%20Detection%20using%20ML%20.ipynb)
 - [Online Retail analysis](./Online%20Retail.ipynb)
 - [House price regression](./Regr_house_price.ipynb)
-- [K-means clustering](./clus_K-means.ipynb)
+- [Customer segmentation with K-means](./customer-segmentation-k-means.ipynb)
+- [Heart disease and Iris classification with decision trees](./heart-disease-and-iris-decision-trees.ipynb)
+- [Heart disease classification with KNN](./heart-disease-knn-classification.ipynb)
+- [Heart disease classification with logistic regression](./heart-disease-logistic-regression.ipynb)
 
 ## Run the notebooks
 
